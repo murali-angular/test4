@@ -18,7 +18,7 @@ for(x of fruits){
 let count = 11;
 
 while(count <= 10){
-    console.log ('Count '+count)
+    console.log ('Count ' +count)
     count=count+1;
 }
 
