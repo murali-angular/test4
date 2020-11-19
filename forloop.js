@@ -4,7 +4,7 @@ for(i = 1; i <= 5; i++){
     console.log ('value of i is : '+i);
 }
 
-let fruits = ['Apple', 'Banana', 'Grapess'];
+let fruits = ['Apple', 'Bananaa', 'Grapesss'];
 let x;
 for (x in fruits){
     console.log (fruits[x])
